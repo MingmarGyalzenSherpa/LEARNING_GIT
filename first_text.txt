@@ -3,3 +3,4 @@ I want this to go to commit2.
 CHANGED
 this is changed now
 modifiedd
+modified2
